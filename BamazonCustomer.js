@@ -134,7 +134,7 @@ function buy() {
               });
             } else {
               console.log(
-                "Sorry, there is not enough product in stock, your order can not be placed as is."
+                "Sorry, there is not enough product in stock, your order can not be placed."
               );
               console.log("Please modify your order.");
               console.log(
